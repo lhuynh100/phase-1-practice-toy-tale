@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
@@ -22,13 +22,13 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 8
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
-      "likes": 1
+      "likes": 7
     },
     {
       "id": 6,
@@ -46,7 +46,19 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 2
+    },
+    {
+      "name": "jessie",
+      "image": "https://www.shutterstock.com/image-photo/hong-kong-july-26-2019-harbour-1464677081",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "gundam",
+      "image": "https://wall.alphacoders.com/big.php?i=27281",
+      "likes": 3,
+      "id": 10
     }
   ]
 }
